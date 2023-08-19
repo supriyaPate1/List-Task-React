@@ -1,0 +1,52 @@
+#listhead{
+    text-align: center;
+    color: rgb(33, 97, 8);
+    background-color: rgb(106, 182, 156);
+}
+.list{
+    text-align: center;
+}
+.list input{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 20px;
+    margin-top: 10px;
+   
+  
+}
+.list button{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 20px;
+    padding-left: 20px;
+   
+}
+#listItem{
+    border-collapse: collapse;
+    width: 98%;
+   margin: auto;
+}
+#listItem td {
+    border: 1px solid black;
+  }
+#listItem th {
+    border: 1px solid black;
+  }
+  .border{
+    border: 1px solid black;
+    width: 60%;
+    margin: auto;
+    padding-bottom: 5px;
+}
+.cancel{
+    float: left;
+    text-decoration: none;
+    color: grey;
+    margin-left: 8px;
+}
+.cancel button:hover{
+    color: red;
+}
+#item{
+    padding-right: 20%;
+}

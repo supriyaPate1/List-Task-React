@@ -1,0 +1,66 @@
+.main1{
+    text-align: center;
+    color: black;
+    background-color: bisque;
+    border: 1px solid black;
+    width:50%;
+    margin:auto;
+    padding-left: 30px;
+    
+}
+#prohead{
+    text-align: center;
+    color: rgb(9, 9, 92);
+    background-color: rgb(101, 171, 199);
+}
+.main1 input{
+   padding-top: 8px;
+   padding-bottom: 8px;
+   display: inline;
+   margin-left: 20px;
+   margin-top: 8px;
+   /* text-align: center; */
+}
+#listPRO{
+    width:60%;
+    margin: auto;
+    padding-top: 10px;
+}
+.main1 button{
+    
+    margin-top: 8px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin-left: 100px;
+    border: 1px solid black;
+  
+}
+.form1 button :hover{
+    border: 2px solid green;
+}
+#listPRO{
+    border-collapse: collapse;
+    width: 80%;
+    margin-top: 20px;
+}
+#listPRO td {
+    border: 1px solid black;
+  }
+#listPRO th {
+    border: 1px solid black;
+  }
+  .form1 label{
+    float: left;
+    margin-left: 80px;
+    margin-top: 15px;
+  }
+ #name{
+    margin-right:65px;
+ }
+  #id{
+    margin-right:40px;
+  }
+  #price{
+    margin-right:58px;
+  }
+

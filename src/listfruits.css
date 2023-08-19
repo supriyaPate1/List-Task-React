@@ -1,0 +1,12 @@
+.fruit{
+    text-align: center;
+}
+.fruit li{
+    list-style-type: none;
+    color: rgb(7, 7, 87);
+    justify-content: center;
+}
+.fruit h1{
+    color: rgb(48, 7, 87);
+    background-color: rgb(180, 152, 206);
+}
